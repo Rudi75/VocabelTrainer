@@ -1,0 +1,68 @@
+﻿1/1/0001 10:00:00 AM;boyfriend;fester Freund;0
+1/1/0001 10:00:00 AM;it's;sein/seine/ihr/ihre;0
+1/1/0001 10:00:00 AM;play;spielen;0
+1/1/0001 10:00:00 AM;sister;Schwester;0
+1/1/0001 10:00:00 PM;back;zurück;0
+1/1/0001 10:00:00 PM;can;können/Dose;0
+1/1/0001 10:00:00 PM;cannot/can't;nicht können;-0
+1/1/0001 10:00:00 PM;concert;Konzert;0
+1/1/0001 10:00:00 AM;Don't worry;Keine Sorge;0
+1/1/0001 10:00:00 PM;Hi there!;Hallo ihr!;0
+1/1/0001 10:00:00 PM;job;Aufgabe/Arbeit;0
+1/1/0001 10:00:00 PM;know;wissen/können;0
+1/1/0001 10:00:00 AM;perfect;perfekt;0
+1/1/0001 10:00:00 PM;sure;sicher;0
+1/1/0001 10:00:00 AM;try;versuch;0
+1/1/0001 10:00:00 AM;who;wer;0
+1/1/0001 10:00:00 AM;enjoy;genießen;0
+1/1/0001 10:00:00 AM;some;etwas;0
+1/1/0001 10:00:00 PM;when;wenn;0
+1/1/0001 10:00:00 PM;carry;tragen;0
+1/1/0001 10:00:00 PM;stand on;auf etwas stehen;0
+1/1/0001 10:00:00 PM;tongue;Zunge;0
+1/1/0001 10:00:00 PM;touch;berühren;0
+1/1/0001 10:00:00 PM;walk on;auf etwas gehen;0
+1/1/0001 10:00:00 PM;wiggle;wackeln;0
+1/1/0001 10:00:00 PM;drink;trinken;0
+1/1/0001 10:00:00 AM;hundred;hundert;0
+1/1/0001 10:00:00 PM;in one go;auf einmal;0
+1/1/0001 10:00:00 AM;Is that so?;Ach wirklich?;0
+1/1/0001 10:00:00 PM;This is me;Das bin ich;0
+1/1/0001 10:00:00 AM;It's me;Ich bin's;0
+1/1/0001 10:00:00 AM;What's happening?;Was ist los?;0
+1/1/0001 10:00:00 PM;after;nach;0
+1/1/0001 10:00:00 PM;a lot of;viel/viele;0
+1/1/0001 10:00:00 PM;day;Tag;0
+1/1/0001 10:00:00 PM;end;Ende;0
+1/1/0001 10:00:00 AM;fun;Spass;0
+1/1/0001 10:00:00 AM;Gow away;Geh weg;0
+1/1/0001 10:00:00 PM;help;helfen/Hilfe;0
+1/1/0001 10:00:00 AM;home;zu Hause/nach Hause/Zuhause;0
+1/1/0001 10:00:00 AM;it's no good;Es hat keinen Zweck;0
+1/1/0001 10:00:00 PM;mum;Mutter/Mama/Mutti;0
+1/1/0001 10:00:00 PM;next;nächste/nächster/nächstes;0
+1/1/0001 10:00:00 AM;still;immer noch;0
+1/1/0001 10:00:00 PM;still not;immer noch nicht;0
+1/1/0001 10:00:00 AM;a day in the life of;ein Tag im Leben von;0
+1/1/0001 10:00:00 PM;be asleep;schlafen;0
+1/1/0001 10:00:00 PM;early;früh;0
+1/1/0001 10:00:00 AM;it's lunchime;es ist Mittagspause;0
+1/1/0001 10:00:00 PM;life;Leben;0
+1/1/0001 10:00:00 PM;Are you OK?;Geht's dir gut?/Geht's euch gut?/Geht's ihnen gut?;0
+1/1/0001 10:00:00 AM;homework;Hausaufgabe;0
+1/1/0001 10:00:00 PM;into;in;0
+1/1/0001 10:00:00 AM;Oh dear!;Du meine Güte!;0
+1/1/0001 10:00:00 AM;room;Zimmer/Raum;0
+1/1/0001 10:00:00 AM;why;warum;0
+1/1/0001 10:00:00 AM;bad;schlecht/böse;0
+1/1/0001 10:00:00 PM;don't be late;Komm nicht zu spät/sei pünktlich;0
+1/1/0001 10:00:00 AM;tomorrow;morgen;0
+1/1/0001 10:00:00 PM;birthday;Geburtstag;0
+1/1/0001 10:00:00 AM;friend;Freund/Freundin;0
+1/1/0001 10:00:00 PM;every day;jeden Tag;0
+1/1/0001 10:00:00 PM;because;weil;0
+1/1/0001 10:00:00 PM;her;ihre;0
+1/1/0001 10:00:00 PM;I don't believe it;Ich kann es kaum glauben;0
+1/1/0001 10:00:00 AM;I'm in trouble;Ich bin in Schwierigkeiten;0
+1/1/0001 10:00:00 PM;It's your fault;Es ist deine Schuld;0
+1/1/0001 10:00:00 AM;See you later;Bis später;0
